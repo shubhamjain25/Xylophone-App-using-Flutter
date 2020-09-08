@@ -1,4 +1,4 @@
-# xylophone_app
+## Xylophone App
 
 A new Flutter application.
 
